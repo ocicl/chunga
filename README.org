@@ -4,6 +4,6 @@ Portable chunked streams for Common Lisp.
 
 |---------+-----------------------------------------|
 | source  | git:https://github.com/edicl/chunga.git |
-| commit  | 8b6329f                                 |
+| commit  | 1310e96                                 |
 | systems | chunga                                  |
 |---------+-----------------------------------------|
